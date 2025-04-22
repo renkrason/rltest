@@ -51,3 +51,12 @@
 .gallery img:hover {
   transform: scale(1.03);
 }
+
+body {
+  font-family: 'Helvetica Neue', sans-serif; /* Typeface */
+  font-size: 16px;                           /* Size */
+  font-weight: 400;                          /* Thickness (100 = thin, 900 = bold) */
+  line-height: 1.6;                          /* Line spacing */
+  letter-spacing: 0.5px;                     /* Space between letters */
+  color: #d60001;                               /* Text color */
+}
